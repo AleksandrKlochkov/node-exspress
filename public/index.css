@@ -6,6 +6,10 @@
   font-size: 2rem;
 }
 
+.course-form{
+  margin-bottom: 2rem;
+}
+
 .course {
   width: 100%;
   display: flex;
